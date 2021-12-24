@@ -1,0 +1,8 @@
+IssueType,TotalCount,ToDo,InProgress,InVerification,PRRaised,Merged,Done
+Total,2581,642,137,332,4,0,1418
+Epic,47,15,23,4,0,0,5
+Story,248,51,36,63,0,0,96
+Task,273,14,15,53,0,0,178
+Sub-task,1228,490,48,125,2,0,543
+Bug,738,49,7,76,2,0,591
+Test Case,0,0,0,0,0,0,0

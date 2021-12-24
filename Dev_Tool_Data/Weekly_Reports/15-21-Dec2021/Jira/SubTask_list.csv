@@ -1,0 +1,533 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-10754,Sub-task,2021-12-16T16:44:34.225+0530,2021-12-16T16:44:50.364+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-10691,Sub-task,2021-12-16T09:48:53.883+0530,2021-12-16T12:52:47.799+0530,Done,Medium,Neelima Manubolu,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,1200,1200,None
+OP-10692,Sub-task,2021-12-16T09:49:43.860+0530,2021-12-17T12:25:11.898+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-10693,Sub-task,2021-12-16T09:50:05.601+0530,2021-12-17T09:47:05.354+0530,Done,Medium,Nitish Dhawan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,7200,7200,7200
+OP-10694,Sub-task,2021-12-16T09:50:27.011+0530,2021-12-16T13:03:45.967+0530,Done,Medium,Nitish Dhawan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,1800,1800,1800
+OP-10781,Sub-task,2021-12-16T19:22:03.044+0530,2021-12-16T19:31:20.736+0530,In Verification,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10782,Sub-task,2021-12-16T19:22:59.839+0530,2021-12-17T13:26:35.327+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-10783,Sub-task,2021-12-16T19:23:20.423+0530,2021-12-17T14:37:00.476+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10917,Sub-task,2021-12-21T09:41:02.083+0530,2021-12-21T10:21:26.997+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10941,Sub-task,2021-12-21T10:20:49.845+0530,2021-12-21T10:20:50.444+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10868,Sub-task,2021-12-20T08:05:12.548+0530,2021-12-22T20:36:40.056+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10898,Sub-task,2021-12-20T17:54:01.170+0530,2021-12-20T18:11:44.002+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10833,Sub-task,2021-12-17T12:38:56.481+0530,2021-12-21T19:00:32.857+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10834,Sub-task,2021-12-17T12:40:10.380+0530,2021-12-22T11:53:54.243+0530,In Progress,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10871,Sub-task,2021-12-20T09:17:54.824+0530,2021-12-22T09:09:39.899+0530,To Do,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10963,Sub-task,2021-12-21T13:11:42.000+0530,2021-12-21T18:55:16.639+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,3600
+OP-10961,Sub-task,2021-12-21T12:59:05.515+0530,2021-12-22T09:28:02.274+0530,Done,Medium,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),OES,14400,14400,None
+OP-10750,Sub-task,2021-12-16T15:02:20.410+0530,2021-12-17T09:54:34.509+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10967,Sub-task,2021-12-21T14:13:32.405+0530,2021-12-23T08:51:25.502+0530,Done,Medium,Ashmita,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,72000,100800,57600
+OP-10968,Sub-task,2021-12-21T14:15:57.082+0530,2021-12-23T08:51:55.941+0530,Done,Medium,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,14400
+OP-10792,Sub-task,2021-12-17T09:53:36.500+0530,2021-12-17T23:00:23.904+0530,In Verification,Medium,Ramya Ravi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,None
+OP-10841,Sub-task,2021-12-17T13:17:22.534+0530,2021-12-21T16:59:13.231+0530,In Verification,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10884,Sub-task,2021-12-20T11:29:30.884+0530,2021-12-20T15:41:29.699+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10872,Sub-task,2021-12-20T09:28:21.074+0530,2021-12-22T21:40:01.062+0530,In Progress,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,21600,None
+OP-10703,Sub-task,2021-12-16T11:39:59.970+0530,2021-12-17T12:51:01.753+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-10903,Sub-task,2021-12-20T23:35:06.009+0530,2021-12-21T10:29:37.680+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10904,Sub-task,2021-12-20T23:37:23.998+0530,2021-12-21T10:29:13.612+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10905,Sub-task,2021-12-20T23:44:27.738+0530,2021-12-21T10:28:49.842+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10912,Sub-task,2021-12-21T09:23:44.267+0530,2021-12-21T09:23:44.665+0530,To Do,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10913,Sub-task,2021-12-21T09:24:17.585+0530,2021-12-21T09:24:18.244+0530,To Do,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10914,Sub-task,2021-12-21T09:24:43.977+0530,2021-12-21T09:24:44.417+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10701,Sub-task,2021-12-16T10:11:09.502+0530,2021-12-21T21:40:22.060+0530,In Verification,Medium,Ramya Ravi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10755,Sub-task,2021-12-16T16:46:40.544+0530,2021-12-21T21:40:08.108+0530,Done,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,3600,3600,None
+OP-10951,Sub-task,2021-12-21T10:41:21.774+0530,2021-12-22T20:31:31.538+0530,In Progress,Medium,Vinay Kumar B K,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10953,Sub-task,2021-12-21T10:44:51.735+0530,2021-12-22T20:30:27.147+0530,In Progress,Medium,Vivek K,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10901,Sub-task,2021-12-20T20:51:05.264+0530,2021-12-21T10:24:01.417+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,None
+OP-10918,Sub-task,2021-12-21T09:45:39.910+0530,2021-12-21T09:46:20.992+0530,To Do,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10960,Sub-task,2021-12-21T12:06:13.838+0530,2021-12-21T12:06:54.905+0530,To Do,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10728,Sub-task,2021-12-16T14:31:21.928+0530,2021-12-17T10:47:37.791+0530,In Progress,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10696,Sub-task,2021-12-16T09:56:24.047+0530,2021-12-17T10:13:07.463+0530,Approved,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10886,Sub-task,2021-12-20T11:40:02.903+0530,2021-12-21T09:56:26.781+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10962,Sub-task,2021-12-21T13:01:57.440+0530,2021-12-21T13:02:28.175+0530,Approved,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10978,Sub-task,2021-12-21T14:56:45.213+0530,2021-12-22T09:06:38.821+0530,Approved,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10979,Sub-task,2021-12-21T17:06:10.547+0530,2021-12-22T09:05:55.537+0530,In Verification,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,None
+OP-10710,Sub-task,2021-12-16T12:12:23.242+0530,2021-12-20T08:55:26.685+0530,In Verification,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9000,9000,9000
+OP-10711,Sub-task,2021-12-16T12:15:00.825+0530,2021-12-16T16:01:32.975+0530,In Verification,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2700,2700,None
+OP-10713,Sub-task,2021-12-16T12:17:27.744+0530,2021-12-20T09:53:59.734+0530,In Verification,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,900,900,900
+OP-10714,Sub-task,2021-12-16T12:17:37.478+0530,2021-12-16T16:00:52.998+0530,In Verification,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-10715,Sub-task,2021-12-16T12:17:56.031+0530,2021-12-17T16:32:32.816+0530,In Verification,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-10716,Sub-task,2021-12-16T12:18:09.678+0530,2021-12-16T19:46:14.754+0530,In Verification,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-10717,Sub-task,2021-12-16T12:18:22.478+0530,2021-12-16T19:45:45.863+0530,In Verification,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-10718,Sub-task,2021-12-16T12:19:04.405+0530,2021-12-17T08:50:17.144+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10719,Sub-task,2021-12-16T12:20:01.351+0530,2021-12-17T08:50:37.291+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10720,Sub-task,2021-12-16T12:20:15.068+0530,2021-12-16T19:45:59.018+0530,In Verification,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10751,Sub-task,2021-12-16T15:32:12.600+0530,2021-12-16T15:34:59.337+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10874,Sub-task,2021-12-20T10:48:10.173+0530,2021-12-20T11:13:45.960+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10875,Sub-task,2021-12-20T10:48:50.932+0530,2021-12-20T11:32:50.688+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10876,Sub-task,2021-12-20T10:49:25.833+0530,2021-12-22T09:11:00.570+0530,In Progress,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10893,Sub-task,2021-12-20T14:43:24.912+0530,2021-12-20T18:07:38.095+0530,PR Raised,High,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10894,Sub-task,2021-12-20T15:49:58.632+0530,2021-12-20T17:55:27.170+0530,In Verification,High,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10896,Sub-task,2021-12-20T17:43:46.229+0530,2021-12-20T17:55:07.388+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,7200,None
+OP-10897,Sub-task,2021-12-20T17:53:41.402+0530,2021-12-20T17:58:58.017+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10915,Sub-task,2021-12-21T09:25:55.878+0530,2021-12-21T09:26:18.949+0530,In Progress,Medium,Giribabu Thanikonda,ISD Sprint 2 (15Dec21-28Dec21),OES,0,7200,7200
+OP-10889,Sub-task,2021-12-20T12:22:44.309+0530,2021-12-20T12:33:25.285+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10890,Sub-task,2021-12-20T12:23:09.210+0530,2021-12-21T15:35:12.243+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10891,Sub-task,2021-12-20T12:26:04.795+0530,2021-12-21T15:34:53.435+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10911,Sub-task,2021-12-21T09:17:35.332+0530,2021-12-21T09:17:35.741+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10730,Sub-task,2021-12-16T14:32:59.657+0530,2021-12-16T15:09:53.169+0530,In Progress,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10731,Sub-task,2021-12-16T14:36:58.268+0530,2021-12-16T14:36:58.942+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10732,Sub-task,2021-12-16T14:37:50.899+0530,2021-12-20T13:03:26.066+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-10733,Sub-task,2021-12-16T14:42:49.268+0530,2021-12-16T14:42:50.083+0530,To Do,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10734,Sub-task,2021-12-16T14:44:34.984+0530,2021-12-16T17:35:19.749+0530,In Progress,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10735,Sub-task,2021-12-16T14:45:08.296+0530,2021-12-16T14:45:08.988+0530,To Do,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10793,Sub-task,2021-12-17T10:07:03.950+0530,2021-12-17T10:10:25.185+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10858,Sub-task,2021-12-17T17:21:23.701+0530,2021-12-17T17:43:54.295+0530,Done,Medium,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),OES,3600,3600,None
+OP-10870,Sub-task,2021-12-20T09:06:29.984+0530,2021-12-20T09:07:42.262+0530,In Progress,High,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,28800,28800
+OP-10789,Sub-task,2021-12-17T09:00:57.729+0530,2021-12-21T13:15:53.384+0530,In Verification,High,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,12600,14400,14400
+OP-10790,Sub-task,2021-12-17T09:01:50.847+0530,2021-12-22T18:50:36.734+0530,In Progress,High,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,27000,28800,28800
+OP-10791,Sub-task,2021-12-17T09:02:49.253+0530,2021-12-22T18:50:53.610+0530,To Do,High,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,10800,10800
+OP-10842,Sub-task,2021-12-17T15:10:53.755+0530,2021-12-17T15:10:54.350+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10843,Sub-task,2021-12-17T15:11:23.611+0530,2021-12-17T15:11:23.965+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10844,Sub-task,2021-12-17T15:12:25.088+0530,2021-12-17T15:12:25.469+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10964,Sub-task,2021-12-21T13:17:48.647+0530,2021-12-21T13:18:01.700+0530,To Do,High,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10969,Sub-task,2021-12-21T14:35:30.607+0530,2021-12-21T16:31:01.033+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10970,Sub-task,2021-12-21T14:35:56.212+0530,2021-12-22T09:24:11.822+0530,To Do,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10736,Sub-task,2021-12-16T14:51:06.265+0530,2021-12-16T14:51:06.737+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10737,Sub-task,2021-12-16T14:51:55.422+0530,2021-12-16T14:51:56.027+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10738,Sub-task,2021-12-16T14:52:45.679+0530,2021-12-16T14:52:46.294+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10739,Sub-task,2021-12-16T14:53:29.671+0530,2021-12-16T14:53:30.536+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10740,Sub-task,2021-12-16T14:53:59.091+0530,2021-12-16T14:53:59.791+0530,To Do,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10741,Sub-task,2021-12-16T14:54:52.330+0530,2021-12-16T14:54:52.951+0530,To Do,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10742,Sub-task,2021-12-16T14:55:29.467+0530,2021-12-16T14:55:30.086+0530,To Do,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10743,Sub-task,2021-12-16T14:56:14.191+0530,2021-12-16T14:56:14.777+0530,To Do,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10744,Sub-task,2021-12-16T14:56:37.981+0530,2021-12-22T15:17:00.314+0530,In Progress,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10745,Sub-task,2021-12-16T14:57:00.818+0530,2021-12-16T14:57:01.494+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10746,Sub-task,2021-12-16T14:57:31.172+0530,2021-12-20T13:02:41.656+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-10747,Sub-task,2021-12-16T14:58:02.542+0530,2021-12-16T14:58:02.922+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10748,Sub-task,2021-12-16T14:58:26.841+0530,2021-12-16T14:58:27.514+0530,To Do,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10749,Sub-task,2021-12-16T14:59:25.112+0530,2021-12-16T14:59:25.496+0530,To Do,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10689,Sub-task,2021-12-16T09:06:26.635+0530,2021-12-17T13:02:48.966+0530,To Do,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),Spinnaker,0,0,None
+OP-10835,Sub-task,2021-12-17T12:54:12.659+0530,2021-12-17T17:11:42.070+0530,Done,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,None
+OP-10836,Sub-task,2021-12-17T12:54:49.464+0530,2021-12-17T13:04:43.702+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10837,Sub-task,2021-12-17T12:55:28.392+0530,2021-12-17T13:04:50.740+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10838,Sub-task,2021-12-17T12:56:05.695+0530,2021-12-17T13:04:55.483+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10839,Sub-task,2021-12-17T12:57:14.891+0530,2021-12-17T13:04:47.862+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10840,Sub-task,2021-12-17T13:02:40.804+0530,2021-12-17T13:04:58.779+0530,To Do,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10698,Sub-task,2021-12-16T10:01:34.226+0530,2021-12-20T12:02:15.731+0530,In Verification,Medium,Ashmita,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,28800,28800
+OP-10699,Sub-task,2021-12-16T10:02:31.100+0530,2021-12-20T17:54:55.595+0530,In Verification,Medium,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,28800,28800
+OP-10916,Sub-task,2021-12-21T09:32:06.069+0530,2021-12-21T13:44:05.861+0530,In Verification,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),OES,10800,10800,7200
+OP-10764,Sub-task,2021-12-16T18:11:52.484+0530,2021-12-16T18:13:19.501+0530,To Do,Medium,Satya Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10765,Sub-task,2021-12-16T18:11:53.023+0530,2021-12-16T18:12:28.551+0530,To Do,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10766,Sub-task,2021-12-16T18:11:53.366+0530,2021-12-16T18:12:33.387+0530,To Do,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10767,Sub-task,2021-12-16T18:11:53.711+0530,2021-12-16T18:12:36.564+0530,To Do,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10768,Sub-task,2021-12-16T18:11:54.078+0530,2021-12-17T08:49:30.700+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10769,Sub-task,2021-12-16T18:11:54.419+0530,2021-12-17T08:49:36.917+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10770,Sub-task,2021-12-16T18:11:54.770+0530,2021-12-16T18:12:48.719+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10771,Sub-task,2021-12-16T18:11:55.128+0530,2021-12-16T18:13:01.060+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10773,Sub-task,2021-12-16T18:47:47.043+0530,2021-12-16T18:48:06.020+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10774,Sub-task,2021-12-16T18:47:47.379+0530,2021-12-16T18:48:20.555+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10775,Sub-task,2021-12-16T18:47:47.713+0530,2021-12-16T18:48:26.571+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10776,Sub-task,2021-12-16T18:47:48.078+0530,2021-12-16T18:48:38.628+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10777,Sub-task,2021-12-16T18:47:48.463+0530,2021-12-17T08:49:02.898+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10778,Sub-task,2021-12-16T18:47:48.854+0530,2021-12-17T08:49:09.334+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10797,Sub-task,2021-12-17T11:42:56.515+0530,2021-12-17T11:43:54.578+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10798,Sub-task,2021-12-17T11:42:57.190+0530,2021-12-17T11:43:59.963+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10799,Sub-task,2021-12-17T11:42:57.810+0530,2021-12-17T11:44:04.522+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10800,Sub-task,2021-12-17T11:42:58.489+0530,2021-12-17T11:44:10.217+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10801,Sub-task,2021-12-17T11:42:59.159+0530,2021-12-17T11:44:23.792+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10802,Sub-task,2021-12-17T11:42:59.937+0530,2021-12-17T11:44:29.136+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10803,Sub-task,2021-12-17T11:43:00.680+0530,2021-12-17T11:44:35.072+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10804,Sub-task,2021-12-17T11:43:01.332+0530,2021-12-17T11:44:42.619+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10806,Sub-task,2021-12-17T11:45:11.357+0530,2021-12-17T11:45:49.948+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10807,Sub-task,2021-12-17T11:45:11.906+0530,2021-12-17T11:45:56.232+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10808,Sub-task,2021-12-17T11:45:12.460+0530,2021-12-17T11:46:18.127+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10809,Sub-task,2021-12-17T11:45:13.016+0530,2021-12-17T11:46:23.941+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10810,Sub-task,2021-12-17T11:45:13.629+0530,2021-12-17T11:46:35.906+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10811,Sub-task,2021-12-17T11:45:14.286+0530,2021-12-17T11:46:45.705+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10812,Sub-task,2021-12-17T11:45:14.875+0530,2021-12-17T11:46:52.013+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10813,Sub-task,2021-12-17T11:45:15.504+0530,2021-12-17T11:47:00.089+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10815,Sub-task,2021-12-17T11:50:04.610+0530,2021-12-17T11:50:32.987+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10816,Sub-task,2021-12-17T11:50:05.309+0530,2021-12-17T11:50:54.372+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10817,Sub-task,2021-12-17T11:50:05.960+0530,2021-12-17T11:51:08.108+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10818,Sub-task,2021-12-17T11:50:06.557+0530,2021-12-17T11:51:13.491+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10819,Sub-task,2021-12-17T11:50:07.242+0530,2021-12-17T11:51:19.249+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10820,Sub-task,2021-12-17T11:50:07.813+0530,2021-12-17T11:51:24.850+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10821,Sub-task,2021-12-17T11:50:08.450+0530,2021-12-17T11:51:29.949+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10822,Sub-task,2021-12-17T11:50:09.162+0530,2021-12-17T11:51:35.351+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10824,Sub-task,2021-12-17T11:56:31.748+0530,2021-12-17T11:57:00.167+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10825,Sub-task,2021-12-17T11:56:32.374+0530,2021-12-17T11:57:07.595+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10826,Sub-task,2021-12-17T11:56:33.030+0530,2021-12-17T11:57:13.240+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10827,Sub-task,2021-12-17T11:56:33.695+0530,2021-12-17T11:57:18.442+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10828,Sub-task,2021-12-17T11:56:34.330+0530,2021-12-17T11:57:23.638+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10829,Sub-task,2021-12-17T11:56:35.007+0530,2021-12-17T11:57:32.564+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10830,Sub-task,2021-12-17T11:56:35.705+0530,2021-12-17T11:57:42.530+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10831,Sub-task,2021-12-17T11:56:36.364+0530,2021-12-17T11:57:48.077+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10779,Sub-task,2021-12-16T18:47:49.252+0530,2021-12-21T16:14:33.959+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11011,Sub-task,2021-12-21T19:10:29.142+0530,2021-12-22T15:30:51.967+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-11012,Sub-task,2021-12-21T19:11:51.646+0530,2021-12-22T13:42:36.519+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-11013,Sub-task,2021-12-21T19:12:28.764+0530,2021-12-22T15:31:06.225+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10958,Sub-task,2021-12-21T11:56:07.309+0530,2021-12-21T11:56:41.525+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10910,Sub-task,2021-12-21T08:59:23.744+0530,2021-12-22T08:39:02.833+0530,In Verification,High,Ashmita,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,None
+OP-10981,Sub-task,2021-12-21T17:28:02.858+0530,2021-12-21T17:28:57.401+0530,In Progress,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10982,Sub-task,2021-12-21T17:28:03.454+0530,2021-12-21T17:29:22.355+0530,In Progress,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10983,Sub-task,2021-12-21T17:28:03.834+0530,2021-12-21T17:29:07.809+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10984,Sub-task,2021-12-21T17:28:04.198+0530,2021-12-21T17:29:12.433+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10985,Sub-task,2021-12-21T17:28:04.570+0530,2021-12-21T17:28:04.915+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10986,Sub-task,2021-12-21T17:28:04.984+0530,2021-12-21T17:28:05.304+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10987,Sub-task,2021-12-21T17:28:05.361+0530,2021-12-21T17:28:05.644+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10988,Sub-task,2021-12-21T17:28:05.705+0530,2021-12-21T17:28:06.018+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10990,Sub-task,2021-12-21T17:31:31.826+0530,2021-12-21T17:31:32.335+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10991,Sub-task,2021-12-21T17:31:32.444+0530,2021-12-21T17:33:12.088+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10992,Sub-task,2021-12-21T17:31:33.077+0530,2021-12-21T17:31:33.575+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10993,Sub-task,2021-12-21T17:31:33.685+0530,2021-12-21T17:31:34.183+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10994,Sub-task,2021-12-21T17:31:34.287+0530,2021-12-21T17:31:34.865+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10995,Sub-task,2021-12-21T17:31:34.970+0530,2021-12-21T17:31:35.482+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10996,Sub-task,2021-12-21T17:31:35.593+0530,2021-12-21T17:31:36.134+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10997,Sub-task,2021-12-21T17:31:36.249+0530,2021-12-21T17:31:36.731+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10998,Sub-task,2021-12-21T17:32:33.446+0530,2021-12-21T17:32:33.932+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10999,Sub-task,2021-12-21T17:32:48.351+0530,2021-12-21T17:32:48.844+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11000,Sub-task,2021-12-21T17:33:00.672+0530,2021-12-21T17:33:01.158+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11001,Sub-task,2021-12-21T17:33:11.737+0530,2021-12-21T17:33:12.263+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11003,Sub-task,2021-12-21T17:34:24.381+0530,2021-12-21T17:34:24.893+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11004,Sub-task,2021-12-21T17:34:25.001+0530,2021-12-21T17:34:25.511+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11005,Sub-task,2021-12-21T17:34:25.625+0530,2021-12-21T17:34:26.112+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11006,Sub-task,2021-12-21T17:34:26.222+0530,2021-12-21T17:34:26.687+0530,To Do,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11007,Sub-task,2021-12-21T17:34:26.805+0530,2021-12-21T17:34:27.282+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-11008,Sub-task,2021-12-21T17:34:27.384+0530,2021-12-21T17:34:27.898+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-6701,Sub-task,2021-06-09T16:32:48.898+0530,2021-12-17T11:21:39.469+0530,Done,Medium,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-6621,Sub-task,2021-06-01T18:28:43.674+0530,2021-12-17T14:29:54.596+0530,Done,Medium,Ramya Ravi,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-7088,Sub-task,2021-07-22T13:10:55.737+0530,2021-12-17T11:21:59.091+0530,Done,Medium,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9081,Sub-task,2021-11-26T13:17:17.063+0530,2021-12-17T09:27:28.511+0530,Done,High,Madhanmohan Pulipati,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,28800,28800
+OP-9777,Sub-task,2021-12-01T16:29:13.326+0530,2021-12-17T09:27:00.750+0530,Done,High,Ravi Shankar Pavushetti,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9683,Sub-task,2021-12-01T10:28:12.106+0530,2021-12-17T12:15:24.671+0530,Done,Medium,Unassigned,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9684,Sub-task,2021-12-01T10:28:46.642+0530,2021-12-17T12:15:27.223+0530,Done,Medium,Unassigned,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9695,Sub-task,2021-12-01T10:59:47.803+0530,2021-12-16T16:44:57.691+0530,Done,Highest,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,115200,115200
+OP-9697,Sub-task,2021-12-01T11:01:41.556+0530,2021-12-16T16:45:00.377+0530,Done,Highest,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,28800,28800,None
+OP-9699,Sub-task,2021-12-01T11:03:22.640+0530,2021-12-16T16:45:02.846+0530,Done,Highest,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,28800,28800,None
+OP-9885,Sub-task,2021-12-02T10:32:30.997+0530,2021-12-16T16:45:05.675+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,1800,3600,3600
+OP-9886,Sub-task,2021-12-02T10:33:35.225+0530,2021-12-16T16:45:17.554+0530,Done,Medium,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,28800,28800
+OP-9887,Sub-task,2021-12-02T10:37:41.009+0530,2021-12-16T16:45:20.029+0530,Done,Medium,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-9890,Sub-task,2021-12-02T11:08:20.466+0530,2021-12-16T16:45:29.254+0530,Done,Lowest,Unassigned,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9892,Sub-task,2021-12-02T11:08:41.395+0530,2021-12-16T16:45:37.693+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 1 (01Dec21-14Dec21),OES,0,3600,3600
+OP-9577,Sub-task,2021-11-30T18:48:08.747+0530,2021-12-17T11:39:22.969+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9605,Sub-task,2021-11-30T19:17:50.898+0530,2021-12-17T11:39:25.908+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9607,Sub-task,2021-11-30T19:24:13.258+0530,2021-12-17T11:39:28.972+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-9609,Sub-task,2021-11-30T19:26:54.867+0530,2021-12-17T11:39:35.506+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-10135,Sub-task,2021-12-07T09:16:08.260+0530,2021-12-17T11:58:42.916+0530,Done,High,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,21600,21600,28800
+OP-10366,Sub-task,2021-12-10T12:53:50.015+0530,2021-12-17T13:15:49.135+0530,Done,High,Kavitha Karuppannan,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,12600,12600,None
+OP-10651,Sub-task,2021-12-15T18:53:48.143+0530,2021-12-16T16:44:47.705+0530,Done,Medium,Anoop Singh,ISD Sprint 1 (01Dec21-14Dec21),Autopilot,0,0,None
+OP-10523,Sub-task,2021-12-13T23:18:02.188+0530,2021-12-17T14:28:25.392+0530,Done,Medium,Luthan T B,ISD Sprint 1 (01Dec21-14Dec21),OES,0,0,None
+OP-10119,Sub-task,2021-12-06T16:47:19.186+0530,2021-12-17T12:49:07.747+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10121,Sub-task,2021-12-06T16:48:03.726+0530,2021-12-22T20:13:53.297+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-6742,Sub-task,2021-06-14T17:13:37.676+0530,2021-12-17T11:21:28.579+0530,In Verification,Medium,srikanth,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,None
+OP-6616,Sub-task,2021-06-01T14:17:30.303+0530,2021-12-17T14:21:35.989+0530,Approved,Low,Ramya Ravi,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-6846,Sub-task,2021-06-25T15:21:59.805+0530,2021-12-17T13:23:45.986+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10264,Sub-task,2021-12-09T11:29:59.187+0530,2021-12-16T16:16:58.309+0530,In Progress,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10266,Sub-task,2021-12-09T12:05:52.153+0530,2021-12-16T13:31:37.537+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10471,Sub-task,2021-12-13T12:22:25.163+0530,2021-12-17T16:31:01.985+0530,Done,Medium,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-7929,Sub-task,2021-11-12T09:30:19.389+0530,2021-12-17T11:22:27.076+0530,Done,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,57600,None
+OP-8381,Sub-task,2021-11-18T10:41:59.143+0530,2021-12-17T11:21:22.933+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-9320,Sub-task,2021-11-30T11:33:12.824+0530,2021-12-17T14:21:44.903+0530,In Verification,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10610,Sub-task,2021-12-15T10:44:44.769+0530,2021-12-16T16:02:27.915+0530,Done,High,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,None
+OP-9491,Sub-task,2021-11-30T16:39:19.951+0530,2021-12-16T14:41:20.439+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9502,Sub-task,2021-11-30T16:40:01.908+0530,2021-12-16T14:43:29.367+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,14400,14400,None
+OP-9429,Sub-task,2021-11-30T15:22:40.026+0530,2021-12-17T09:43:04.932+0530,ON HOLD,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,1800,1800
+OP-9514,Sub-task,2021-11-30T16:41:22.474+0530,2021-12-16T14:44:01.400+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9516,Sub-task,2021-11-30T16:41:56.706+0530,2021-12-16T14:42:24.129+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9571,Sub-task,2021-11-30T18:39:04.826+0530,2021-12-16T15:29:21.265+0530,Done,High,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9608,Sub-task,2021-11-30T19:26:31.242+0530,2021-12-16T15:28:28.680+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9431,Sub-task,2021-11-30T15:24:30.217+0530,2021-12-16T14:31:35.134+0530,Done,Highest,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,None
+OP-9432,Sub-task,2021-11-30T15:24:59.793+0530,2021-12-17T09:42:08.790+0530,ON HOLD,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,1800,1800
+OP-9526,Sub-task,2021-11-30T17:01:29.317+0530,2021-12-16T14:42:43.331+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9559,Sub-task,2021-11-30T18:26:25.289+0530,2021-12-16T14:44:22.002+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9572,Sub-task,2021-11-30T18:39:51.297+0530,2021-12-16T15:29:57.879+0530,Done,High,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9610,Sub-task,2021-11-30T19:28:16.657+0530,2021-12-16T15:28:18.822+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9436,Sub-task,2021-11-30T15:26:47.843+0530,2021-12-17T13:12:58.773+0530,ON HOLD,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,1800,1800
+OP-9573,Sub-task,2021-11-30T18:40:40.251+0530,2021-12-16T15:28:56.735+0530,Done,High,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9611,Sub-task,2021-11-30T19:39:43.981+0530,2021-12-16T15:28:10.049+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9562,Sub-task,2021-11-30T18:29:00.774+0530,2021-12-16T14:43:10.980+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9563,Sub-task,2021-11-30T18:29:25.431+0530,2021-12-16T14:45:18.437+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,5490,5490,None
+OP-9444,Sub-task,2021-11-30T15:30:14.867+0530,2021-12-16T14:43:54.962+0530,Done,Highest,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9564,Sub-task,2021-11-30T18:30:16.822+0530,2021-12-16T14:45:38.956+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,14400,14400,None
+OP-9565,Sub-task,2021-11-30T18:31:18.207+0530,2021-12-16T14:43:49.756+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9446,Sub-task,2021-11-30T15:30:44.646+0530,2021-12-16T14:32:52.058+0530,Done,Highest,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9586,Sub-task,2021-11-30T19:09:51.364+0530,2021-12-16T14:44:11.143+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9588,Sub-task,2021-11-30T19:10:18.129+0530,2021-12-16T14:46:00.279+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,60,60,None
+OP-9590,Sub-task,2021-11-30T19:11:00.130+0530,2021-12-16T14:46:31.060+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,10800,10800,None
+OP-9591,Sub-task,2021-11-30T19:11:26.928+0530,2021-12-16T14:44:24.542+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9455,Sub-task,2021-11-30T15:33:06.337+0530,2021-12-16T14:25:29.902+0530,Done,Highest,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9593,Sub-task,2021-11-30T19:11:58.322+0530,2021-12-16T14:44:44.284+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9594,Sub-task,2021-11-30T19:12:24.094+0530,2021-12-16T14:47:13.774+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-9595,Sub-task,2021-11-30T19:12:54.007+0530,2021-12-16T14:47:35.540+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,10800,10800,None
+OP-9596,Sub-task,2021-11-30T19:13:15.968+0530,2021-12-16T14:45:06.772+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9461,Sub-task,2021-11-30T15:35:31.584+0530,2021-12-16T14:30:17.768+0530,Done,Highest,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9598,Sub-task,2021-11-30T19:13:40.621+0530,2021-12-16T14:45:23.168+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9599,Sub-task,2021-11-30T19:14:09.015+0530,2021-12-16T14:47:56.781+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-9466,Sub-task,2021-11-30T15:37:03.149+0530,2021-12-17T09:45:52.523+0530,ON HOLD,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,1800,1800
+OP-9600,Sub-task,2021-11-30T19:14:36.743+0530,2021-12-16T14:48:28.024+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,3600,3600,None
+OP-9601,Sub-task,2021-11-30T19:15:02.020+0530,2021-12-20T12:56:01.091+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9624,Sub-task,2021-11-30T20:04:10.528+0530,2021-12-16T15:27:43.889+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9749,Sub-task,2021-12-01T13:25:11.503+0530,2021-12-22T09:53:31.961+0530,In Verification,Medium,Sudhakar Guvvalapalli,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10007,Sub-task,2021-12-03T09:33:06.894+0530,2021-12-23T08:49:55.016+0530,PR Raised,High,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8928,Sub-task,2021-11-25T13:25:38.007+0530,2021-12-17T09:32:31.517+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-8925,Sub-task,2021-11-25T13:16:30.471+0530,2021-12-17T09:32:35.270+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-8705,Sub-task,2021-11-24T11:45:05.305+0530,2021-12-17T09:32:37.776+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,21600,10800
+OP-8708,Sub-task,2021-11-24T11:45:07.833+0530,2021-12-22T19:33:58.213+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-8924,Sub-task,2021-11-25T13:15:50.942+0530,2021-12-17T09:32:42.289+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-8927,Sub-task,2021-11-25T13:25:14.706+0530,2021-12-17T12:49:07.074+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8696,Sub-task,2021-11-24T11:35:51.706+0530,2021-12-17T09:34:46.003+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,21600,10800
+OP-8701,Sub-task,2021-11-24T11:38:20.462+0530,2021-12-21T12:54:49.475+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,3600
+OP-8907,Sub-task,2021-11-25T11:50:19.116+0530,2021-12-17T09:35:42.080+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-8908,Sub-task,2021-11-25T11:50:38.461+0530,2021-12-17T09:35:15.312+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-8909,Sub-task,2021-11-25T11:51:12.697+0530,2021-12-17T09:35:18.477+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10027,Sub-task,2021-12-03T14:06:20.608+0530,2021-12-17T12:49:10.181+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10169,Sub-task,2021-12-08T10:13:59.369+0530,2021-12-20T23:08:50.390+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,300,300,None
+OP-9281,Sub-task,2021-11-29T19:06:06.718+0530,2021-12-17T11:54:32.972+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9284,Sub-task,2021-11-29T19:06:08.852+0530,2021-12-21T11:59:49.913+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2700,3600,3600
+OP-9287,Sub-task,2021-11-29T19:06:10.888+0530,2021-12-17T09:51:28.840+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9288,Sub-task,2021-11-29T19:06:11.503+0530,2021-12-17T09:51:06.899+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9289,Sub-task,2021-11-29T19:06:12.122+0530,2021-12-17T09:51:09.429+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10024,Sub-task,2021-12-03T13:35:39.225+0530,2021-12-17T12:42:22.217+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8785,Sub-task,2021-11-24T15:00:48.646+0530,2021-12-21T15:21:28.715+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,600
+OP-8787,Sub-task,2021-11-24T15:00:49.416+0530,2021-12-21T15:39:04.262+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,1800,1800
+OP-10231,Sub-task,2021-12-08T15:11:58.212+0530,2021-12-17T12:49:06.072+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10512,Sub-task,2021-12-13T16:36:15.522+0530,2021-12-21T17:43:57.807+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-9269,Sub-task,2021-11-29T18:45:56.571+0530,2021-12-17T12:41:46.939+0530,Done,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,57600,None
+OP-9555,Sub-task,2021-11-30T17:48:24.567+0530,2021-12-22T20:36:31.601+0530,In Verification,High,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8809,Sub-task,2021-11-24T15:49:11.857+0530,2021-12-17T11:55:35.671+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,32400,32400,28800
+OP-10238,Sub-task,2021-12-08T19:03:30.617+0530,2021-12-17T11:55:12.740+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-9213,Sub-task,2021-11-29T16:30:38.411+0530,2021-12-17T11:55:10.836+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10441,Sub-task,2021-12-13T10:47:37.888+0530,2021-12-17T12:49:09.787+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8901,Sub-task,2021-11-25T11:04:31.815+0530,2021-12-22T21:53:07.467+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,300
+OP-8904,Sub-task,2021-11-25T11:22:42.778+0530,2021-12-20T18:03:12.420+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-8713,Sub-task,2021-11-24T11:50:22.638+0530,2021-12-17T09:46:43.096+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,21600,10800
+OP-9350,Sub-task,2021-11-30T12:56:20.798+0530,2021-12-17T09:46:36.263+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10348,Sub-task,2021-12-10T11:50:21.187+0530,2021-12-17T09:46:40.273+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10443,Sub-task,2021-12-13T11:31:46.624+0530,2021-12-17T12:49:06.237+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8728,Sub-task,2021-11-24T12:10:50.072+0530,2021-12-17T09:48:04.568+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,21600,10800
+OP-9343,Sub-task,2021-11-30T12:40:34.134+0530,2021-12-17T09:48:07.118+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10472,Sub-task,2021-12-13T12:56:00.461+0530,2021-12-17T09:48:17.935+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,7200
+OP-10474,Sub-task,2021-12-13T13:05:08.833+0530,2021-12-17T12:49:08.564+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10025,Sub-task,2021-12-03T13:38:10.605+0530,2021-12-17T12:49:08.986+0530,Done,High,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8742,Sub-task,2021-11-24T12:23:56.973+0530,2021-12-22T14:09:24.854+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,5400,5400
+OP-10132,Sub-task,2021-12-06T17:41:30.736+0530,2021-12-17T12:49:10.753+0530,Done,High,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-8911,Sub-task,2021-11-25T12:21:09.838+0530,2021-12-20T18:17:20.671+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-8917,Sub-task,2021-11-25T12:21:13.901+0530,2021-12-20T18:17:25.591+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-8914,Sub-task,2021-11-25T12:21:12.035+0530,2021-12-22T11:54:03.337+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2700,2700,900
+OP-8919,Sub-task,2021-11-25T12:21:14.987+0530,2021-12-17T11:07:58.950+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9881,Sub-task,2021-12-02T09:37:21.387+0530,2021-12-16T10:31:38.046+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,7200
+OP-10567,Sub-task,2021-12-14T15:13:12.161+0530,2021-12-17T12:45:47.416+0530,Done,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10568,Sub-task,2021-12-14T15:13:48.842+0530,2021-12-21T09:11:31.393+0530,To Do,Medium,Madhanmohan Pulipati,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,None
+OP-9557,Sub-task,2021-11-30T17:51:06.379+0530,2021-12-16T15:29:30.490+0530,Done,High,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8890,Sub-task,2021-11-25T10:57:53.058+0530,2021-12-17T09:48:56.115+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8891,Sub-task,2021-11-25T10:57:53.814+0530,2021-12-16T14:53:19.021+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-8893,Sub-task,2021-11-25T10:57:54.553+0530,2021-12-22T18:16:57.736+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,900,900,None
+OP-8921,Sub-task,2021-11-25T13:13:31.776+0530,2021-12-17T09:49:19.811+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,1800
+OP-8922,Sub-task,2021-11-25T13:14:40.960+0530,2021-12-17T09:49:22.273+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-8923,Sub-task,2021-11-25T13:14:59.582+0530,2021-12-17T09:49:33.241+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9867,Sub-task,2021-12-02T05:50:28.000+0530,2021-12-20T12:10:00.935+0530,In Progress,High,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8931,Sub-task,2021-11-25T15:25:26.439+0530,2021-12-17T09:55:00.386+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8932,Sub-task,2021-11-25T15:25:27.014+0530,2021-12-16T14:53:26.165+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-8937,Sub-task,2021-11-25T15:25:28.895+0530,2021-12-17T09:55:15.087+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,1800
+OP-8938,Sub-task,2021-11-25T15:25:29.236+0530,2021-12-17T09:55:17.957+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-8939,Sub-task,2021-11-25T15:25:29.570+0530,2021-12-17T09:55:26.393+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8941,Sub-task,2021-11-25T15:38:34.349+0530,2021-12-17T09:53:40.516+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8942,Sub-task,2021-11-25T15:38:35.268+0530,2021-12-16T14:54:50.121+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8944,Sub-task,2021-11-25T15:38:36.624+0530,2021-12-22T18:29:34.561+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,2400,2400
+OP-8947,Sub-task,2021-11-25T15:38:38.571+0530,2021-12-17T09:53:53.978+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,1800
+OP-8948,Sub-task,2021-11-25T15:38:39.229+0530,2021-12-17T09:53:56.902+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,None
+OP-8949,Sub-task,2021-11-25T15:38:39.855+0530,2021-12-17T09:54:05.905+0530,Done,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8972,Sub-task,2021-11-25T17:06:42.063+0530,2021-12-21T08:35:26.411+0530,Done,High,Anjali Batra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,28800,28800
+OP-8973,Sub-task,2021-11-25T17:07:11.224+0530,2021-12-21T14:12:20.783+0530,Done,High,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,36000,57600,57600
+OP-10630,Sub-task,2021-12-15T17:06:41.716+0530,2021-12-21T08:33:50.026+0530,Done,Medium,Anjali Batra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,115200,115200
+OP-10631,Sub-task,2021-12-15T17:08:18.599+0530,2021-12-20T18:00:44.922+0530,Done,Medium,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,57600,57600
+OP-8974,Sub-task,2021-11-25T17:07:50.605+0530,2021-12-20T18:01:04.166+0530,Done,High,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,57600,57600
+OP-8978,Sub-task,2021-11-25T19:42:37.904+0530,2021-12-20T12:04:34.660+0530,To Do,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8979,Sub-task,2021-11-25T19:43:21.275+0530,2021-12-21T15:17:40.855+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9004,Sub-task,2021-11-26T11:03:48.786+0530,2021-12-17T08:58:30.574+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9005,Sub-task,2021-11-26T11:03:49.510+0530,2021-12-17T08:58:37.582+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9014,Sub-task,2021-11-26T11:41:36.409+0530,2021-12-17T08:58:08.996+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9015,Sub-task,2021-11-26T11:41:37.327+0530,2021-12-17T08:58:14.927+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9023,Sub-task,2021-11-26T11:43:52.848+0530,2021-12-17T08:57:45.569+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9024,Sub-task,2021-11-26T11:43:53.189+0530,2021-12-17T08:57:51.995+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9028,Sub-task,2021-11-26T11:46:38.023+0530,2021-12-17T12:13:22.800+0530,In Progress,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9029,Sub-task,2021-11-26T11:46:38.596+0530,2021-12-17T13:04:30.291+0530,In Progress,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9030,Sub-task,2021-11-26T11:46:39.158+0530,2021-12-17T12:13:34.555+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9031,Sub-task,2021-11-26T11:46:39.760+0530,2021-12-17T12:13:37.979+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9032,Sub-task,2021-11-26T11:46:40.407+0530,2021-12-17T08:57:19.562+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9033,Sub-task,2021-11-26T11:46:41.030+0530,2021-12-17T08:57:25.924+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9037,Sub-task,2021-11-26T11:49:39.880+0530,2021-12-16T18:14:39.060+0530,To Do,Medium,Satya Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9041,Sub-task,2021-11-26T11:49:41.303+0530,2021-12-17T08:56:52.475+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9042,Sub-task,2021-11-26T11:49:41.725+0530,2021-12-17T08:56:58.716+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9050,Sub-task,2021-11-26T12:19:06.614+0530,2021-12-17T08:56:26.098+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9051,Sub-task,2021-11-26T12:19:06.981+0530,2021-12-17T08:56:32.176+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9064,Sub-task,2021-11-26T12:50:34.376+0530,2021-12-17T08:55:57.950+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9065,Sub-task,2021-11-26T12:50:35.062+0530,2021-12-17T08:56:04.286+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9070,Sub-task,2021-11-26T13:09:01.418+0530,2021-12-17T11:47:55.511+0530,To Do,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9071,Sub-task,2021-11-26T13:09:01.774+0530,2021-12-17T11:48:01.777+0530,To Do,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9072,Sub-task,2021-11-26T13:09:02.148+0530,2021-12-17T11:48:06.194+0530,To Do,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9073,Sub-task,2021-11-26T13:09:02.529+0530,2021-12-17T11:48:11.596+0530,To Do,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9074,Sub-task,2021-11-26T13:09:02.924+0530,2021-12-17T11:48:34.738+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9075,Sub-task,2021-11-26T13:09:03.337+0530,2021-12-17T11:48:41.238+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9076,Sub-task,2021-11-26T13:09:03.718+0530,2021-12-17T11:48:47.887+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9077,Sub-task,2021-11-26T13:09:04.070+0530,2021-12-17T11:48:53.720+0530,To Do,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9086,Sub-task,2021-11-26T13:30:22.472+0530,2021-12-17T11:09:37.952+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-9085,Sub-task,2021-11-26T13:29:17.274+0530,2021-12-17T11:09:35.160+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,7200
+OP-9095,Sub-task,2021-11-26T15:13:16.074+0530,2021-12-17T08:55:02.915+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9096,Sub-task,2021-11-26T15:13:16.673+0530,2021-12-17T08:55:09.497+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9104,Sub-task,2021-11-26T15:15:39.931+0530,2021-12-17T08:54:01.268+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9105,Sub-task,2021-11-26T15:15:40.604+0530,2021-12-17T08:54:07.492+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9113,Sub-task,2021-11-26T15:19:34.930+0530,2021-12-17T08:53:37.497+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9114,Sub-task,2021-11-26T15:19:35.610+0530,2021-12-17T08:53:44.222+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9122,Sub-task,2021-11-26T15:23:35.789+0530,2021-12-17T08:53:09.200+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9123,Sub-task,2021-11-26T15:23:36.142+0530,2021-12-17T08:53:15.929+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9131,Sub-task,2021-11-26T15:26:01.615+0530,2021-12-17T08:52:17.966+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9132,Sub-task,2021-11-26T15:26:02.031+0530,2021-12-17T08:52:38.857+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9140,Sub-task,2021-11-26T15:29:03.527+0530,2021-12-17T08:51:21.224+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9141,Sub-task,2021-11-26T15:29:04.198+0530,2021-12-17T08:51:33.932+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9149,Sub-task,2021-11-26T15:41:47.221+0530,2021-12-17T08:50:56.298+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9150,Sub-task,2021-11-26T15:41:47.852+0530,2021-12-17T08:51:02.691+0530,To Do,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9930,Sub-task,2021-12-02T14:10:13.354+0530,2021-12-21T21:40:04.742+0530,Done,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,43200,43200,43200
+OP-9977,Sub-task,2021-12-02T18:12:26.860+0530,2021-12-20T12:55:32.581+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-10613,Sub-task,2021-12-15T11:13:09.911+0530,2021-12-20T10:33:53.075+0530,In Progress,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10652,Sub-task,2021-12-15T19:19:02.216+0530,2021-12-20T18:30:32.378+0530,To Do,Medium,Anoop Singh,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,None
+OP-10653,Sub-task,2021-12-15T19:19:55.147+0530,2021-12-22T21:47:02.311+0530,In Progress,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,39600,39600,None
+OP-10650,Sub-task,2021-12-15T18:53:28.579+0530,2021-12-16T16:56:08.657+0530,Done,Medium,srikanth,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,None
+OP-10643,Sub-task,2021-12-15T18:45:54.052+0530,2021-12-16T20:44:27.402+0530,In Progress,Medium,Anoop Singh,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,28800,28800
+OP-10644,Sub-task,2021-12-15T18:46:29.797+0530,2021-12-22T17:55:23.626+0530,PR Raised,Medium,srikanth,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,None
+OP-10646,Sub-task,2021-12-15T18:47:37.137+0530,2021-12-23T09:01:46.124+0530,In Verification,Medium,srikanth,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10647,Sub-task,2021-12-15T18:48:19.734+0530,2021-12-23T09:28:10.802+0530,To Do,Medium,srikanth,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9183,Sub-task,2021-11-29T14:30:58.044+0530,2021-12-17T11:59:55.892+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9185,Sub-task,2021-11-29T14:30:59.531+0530,2021-12-21T17:30:55.925+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,6300,6300,3600
+OP-9186,Sub-task,2021-11-29T14:31:00.222+0530,2021-12-22T12:47:01.820+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9000,9000,3600
+OP-9187,Sub-task,2021-11-29T14:31:01.291+0530,2021-12-22T09:48:46.582+0530,Done,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,57600,57600,None
+OP-9188,Sub-task,2021-11-29T14:31:02.042+0530,2021-12-21T15:37:55.886+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-9190,Sub-task,2021-11-29T14:31:03.372+0530,2021-12-17T12:08:07.171+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9191,Sub-task,2021-11-29T14:31:04.059+0530,2021-12-17T12:00:05.655+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9195,Sub-task,2021-11-29T15:41:57.862+0530,2021-12-17T12:08:49.383+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,3600
+OP-9198,Sub-task,2021-11-29T15:41:59.143+0530,2021-12-22T18:49:05.992+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,5400,5400,3600
+OP-9199,Sub-task,2021-11-29T15:41:59.513+0530,2021-12-22T18:50:40.471+0530,In Progress,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,None
+OP-9200,Sub-task,2021-11-29T15:41:59.842+0530,2021-12-22T18:50:11.226+0530,To Do,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9202,Sub-task,2021-11-29T15:42:00.581+0530,2021-12-17T12:08:34.212+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9203,Sub-task,2021-11-29T15:42:00.981+0530,2021-12-17T12:08:31.757+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9223,Sub-task,2021-11-29T16:59:03.818+0530,2021-12-17T12:09:17.767+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9216,Sub-task,2021-11-29T16:58:59.827+0530,2021-12-17T12:09:14.188+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9219,Sub-task,2021-11-29T16:59:02.026+0530,2021-12-21T00:13:13.596+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,3600
+OP-9224,Sub-task,2021-11-29T16:59:04.195+0530,2021-12-17T12:09:25.117+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9227,Sub-task,2021-11-29T17:10:10.721+0530,2021-12-17T12:09:42.421+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9230,Sub-task,2021-11-29T17:10:12.667+0530,2021-12-22T19:29:34.699+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,5400,5400,3600
+OP-9234,Sub-task,2021-11-29T17:10:15.176+0530,2021-12-17T12:10:00.037+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9235,Sub-task,2021-11-29T17:10:15.819+0530,2021-12-17T12:09:50.476+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9238,Sub-task,2021-11-29T17:13:23.553+0530,2021-12-17T12:10:26.992+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-9240,Sub-task,2021-11-29T17:13:24.500+0530,2021-12-22T15:43:47.640+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,5700,5700,3600
+OP-9241,Sub-task,2021-11-29T17:13:24.864+0530,2021-12-21T20:07:31.991+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,3600
+OP-9245,Sub-task,2021-11-29T17:13:26.340+0530,2021-12-17T12:10:48.442+0530,Done,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9246,Sub-task,2021-11-29T17:13:26.743+0530,2021-12-17T12:10:51.341+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9644,Sub-task,2021-12-01T09:19:32.509+0530,2021-12-20T09:33:03.344+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10425,Sub-task,2021-12-10T19:57:58.388+0530,2021-12-16T15:36:08.001+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10501,Sub-task,2021-12-13T13:41:01.144+0530,2021-12-17T12:49:10.315+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10251,Sub-task,2021-12-08T20:27:49.665+0530,2021-12-22T09:20:10.449+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10252,Sub-task,2021-12-08T20:29:24.449+0530,2021-12-22T15:29:52.028+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10253,Sub-task,2021-12-08T20:35:48.906+0530,2021-12-22T19:24:08.879+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10254,Sub-task,2021-12-08T20:38:14.130+0530,2021-12-22T22:25:20.230+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9271,Sub-task,2021-11-29T19:01:22.182+0530,2021-12-17T12:11:11.889+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,None
+OP-9274,Sub-task,2021-11-29T19:01:23.544+0530,2021-12-21T11:55:36.483+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,5400,5400,3600
+OP-9278,Sub-task,2021-11-29T19:01:25.111+0530,2021-12-17T12:11:01.488+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9279,Sub-task,2021-11-29T19:01:25.449+0530,2021-12-17T12:11:03.842+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-9387,Sub-task,2021-11-30T14:23:41.322+0530,2021-12-21T11:02:22.203+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2100,2100,600
+OP-9943,Sub-task,2021-12-02T15:11:54.871+0530,2021-12-17T12:49:10.454+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10623,Sub-task,2021-12-15T15:33:39.760+0530,2021-12-17T12:49:05.573+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9494,Sub-task,2021-11-30T16:39:23.514+0530,2021-12-17T11:11:35.891+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-9495,Sub-task,2021-11-30T16:39:24.119+0530,2021-12-16T11:10:46.478+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2100,2100,900
+OP-10612,Sub-task,2021-12-15T11:07:48.556+0530,2021-12-17T12:49:07.226+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,300,300,None
+OP-9509,Sub-task,2021-11-30T16:40:30.263+0530,2021-12-22T21:22:20.081+0530,In Verification,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,5400,5400,900
+OP-9958,Sub-task,2021-12-02T15:58:47.981+0530,2021-12-17T12:49:06.740+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10616,Sub-task,2021-12-15T12:25:25.442+0530,2021-12-17T12:49:08.753+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,300,300,None
+OP-9544,Sub-task,2021-11-30T17:32:29.586+0530,2021-12-16T17:31:12.922+0530,In Progress,Medium,Vivek K,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9548,Sub-task,2021-11-30T17:36:08.451+0530,2021-12-21T21:41:58.145+0530,In Progress,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10593,Sub-task,2021-12-15T09:36:26.940+0530,2021-12-17T13:09:09.512+0530,In Verification,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10082,Sub-task,2021-12-06T07:52:42.813+0530,2021-12-17T10:08:55.953+0530,Done,Medium,Tejaswini,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10009,Sub-task,2021-12-03T09:34:35.642+0530,2021-12-17T10:12:22.716+0530,Approved,High,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10010,Sub-task,2021-12-03T09:41:39.522+0530,2021-12-17T10:12:34.563+0530,Approved,High,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10083,Sub-task,2021-12-06T08:33:24.300+0530,2021-12-17T10:12:38.100+0530,Approved,High,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10133,Sub-task,2021-12-07T08:40:17.360+0530,2021-12-17T10:12:42.553+0530,Approved,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,7200,7200,None
+OP-10134,Sub-task,2021-12-07T09:07:50.019+0530,2021-12-21T08:55:20.752+0530,In Progress,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,144000,144000,None
+OP-9824,Sub-task,2021-12-01T18:54:06.509+0530,2021-12-17T09:47:11.220+0530,Done,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1800,1800
+OP-9826,Sub-task,2021-12-01T18:54:07.673+0530,2021-12-20T09:43:00.586+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,1800,1800,1800
+OP-9827,Sub-task,2021-12-01T18:54:08.235+0530,2021-12-16T14:49:01.105+0530,Done,Medium,M Karunakar Reddy,ISD Sprint 2 (15Dec21-28Dec21),OES,3600,3600,None
+OP-9829,Sub-task,2021-12-01T18:54:09.616+0530,2021-12-16T15:27:24.117+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9833,Sub-task,2021-12-01T19:04:52.898+0530,2021-12-17T09:47:50.326+0530,Done,Highest,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,1800
+OP-9838,Sub-task,2021-12-01T19:04:55.114+0530,2021-12-16T15:27:07.778+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-9905,Sub-task,2021-12-02T11:42:51.703+0530,2021-12-22T17:10:51.783+0530,Done,High,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,25200,25200,None
+OP-10103,Sub-task,2021-12-06T12:27:09.753+0530,2021-12-17T14:43:18.308+0530,In Verification,Medium,Arunkumar,ISD Sprint 2 (15Dec21-28Dec21),OES,86400,86400,57600
+OP-10043,Sub-task,2021-12-03T15:28:52.915+0530,2021-12-21T12:01:11.002+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2700,3600,3600
+OP-10571,Sub-task,2021-12-14T15:55:18.864+0530,2021-12-16T08:45:56.842+0530,In Progress,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),Infrastructure,0,0,None
+OP-10573,Sub-task,2021-12-14T16:16:38.686+0530,2021-12-16T08:46:53.459+0530,In Progress,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),Infrastructure,0,0,None
+OP-10176,Sub-task,2021-12-08T10:28:27.841+0530,2021-12-20T14:05:43.797+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1500,1500,900
+OP-10178,Sub-task,2021-12-08T10:28:28.736+0530,2021-12-20T17:29:23.402+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,900,900
+OP-10180,Sub-task,2021-12-08T10:28:29.717+0530,2021-12-20T15:15:02.157+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,600
+OP-10470,Sub-task,2021-12-13T12:21:21.495+0530,2021-12-17T12:49:07.917+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10190,Sub-task,2021-12-08T12:20:48.131+0530,2021-12-16T09:04:54.724+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,16200,16200,None
+OP-10194,Sub-task,2021-12-08T12:20:50.943+0530,2021-12-17T12:49:08.245+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,300,300,None
+OP-10198,Sub-task,2021-12-08T12:20:53.602+0530,2021-12-20T08:54:24.178+0530,Done,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,14400,14400,None
+OP-10208,Sub-task,2021-12-08T12:23:52.596+0530,2021-12-17T16:51:31.586+0530,Done,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-10201,Sub-task,2021-12-08T12:23:49.816+0530,2021-12-17T16:51:34.127+0530,Done,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,3600
+OP-10202,Sub-task,2021-12-08T12:23:50.244+0530,2021-12-17T16:51:36.835+0530,Done,Medium,Sharath Chandra,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,3600
+OP-10204,Sub-task,2021-12-08T12:23:50.987+0530,2021-12-17T12:20:35.984+0530,Done,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1500,1500,None
+OP-10428,Sub-task,2021-12-13T09:10:23.895+0530,2021-12-17T14:35:51.938+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10203,Sub-task,2021-12-08T12:23:50.617+0530,2021-12-16T09:08:29.035+0530,To Do,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,900,900
+OP-10205,Sub-task,2021-12-08T12:23:51.354+0530,2021-12-16T09:08:33.791+0530,To Do,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,900,900
+OP-10223,Sub-task,2021-12-08T14:46:41.260+0530,2021-12-16T12:51:54.114+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,180,2400,2400
+OP-10224,Sub-task,2021-12-08T14:46:41.942+0530,2021-12-16T16:02:09.122+0530,In Progress,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,600,600
+OP-10229,Sub-task,2021-12-08T14:46:45.331+0530,2021-12-16T15:31:07.588+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10230,Sub-task,2021-12-08T14:55:47.354+0530,2021-12-17T12:37:02.438+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10240,Sub-task,2021-12-08T19:06:38.112+0530,2021-12-16T12:54:33.723+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,43200,43200,43200
+OP-10241,Sub-task,2021-12-08T19:06:39.215+0530,2021-12-16T12:54:04.508+0530,Done,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10242,Sub-task,2021-12-08T19:06:40.044+0530,2021-12-20T11:28:13.670+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1200,1200,900
+OP-10245,Sub-task,2021-12-08T19:06:42.358+0530,2021-12-21T12:02:27.553+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,900
+OP-10246,Sub-task,2021-12-08T19:06:42.990+0530,2021-12-16T10:00:18.955+0530,In Progress,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,14400,14400
+OP-10248,Sub-task,2021-12-08T19:06:44.391+0530,2021-12-16T18:57:49.149+0530,In Verification,Medium,Nitish Dhawan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,21600,9000
+OP-10299,Sub-task,2021-12-09T15:56:46.365+0530,2021-12-16T13:30:55.139+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10300,Sub-task,2021-12-09T15:57:25.376+0530,2021-12-16T13:53:25.581+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10301,Sub-task,2021-12-09T15:57:42.308+0530,2021-12-16T13:53:35.001+0530,To Do,Medium,Unassigned,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10516,Sub-task,2021-12-13T17:27:14.831+0530,2021-12-17T12:49:08.406+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10635,Sub-task,2021-12-15T17:18:12.404+0530,2021-12-17T12:49:10.596+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,300,300,None
+OP-10546,Sub-task,2021-12-14T09:12:00.420+0530,2021-12-17T16:33:10.780+0530,Done,Medium,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),OES,10800,10800,None
+OP-10274,Sub-task,2021-12-09T15:00:28.405+0530,2021-12-17T11:15:20.879+0530,In Verification,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10277,Sub-task,2021-12-09T15:00:34.440+0530,2021-12-16T09:17:51.197+0530,In Progress,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,1800,1800,None
+OP-10278,Sub-task,2021-12-09T15:00:34.862+0530,2021-12-20T19:58:25.703+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3000,3000,900
+OP-10281,Sub-task,2021-12-09T15:00:36.214+0530,2021-12-17T11:15:30.887+0530,In Verification,Medium,Satyan Telu,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,None
+OP-10283,Sub-task,2021-12-09T15:00:37.059+0530,2021-12-17T12:49:05.342+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,600,600,None
+OP-10332,Sub-task,2021-12-09T17:58:24.781+0530,2021-12-17T12:49:06.543+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10590,Sub-task,2021-12-14T19:08:33.306+0530,2021-12-16T08:43:54.113+0530,In Verification,Medium,Luthan T B,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,None
+OP-10337,Sub-task,2021-12-10T09:36:24.696+0530,2021-12-20T11:33:32.034+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10338,Sub-task,2021-12-10T09:36:38.278+0530,2021-12-20T11:33:38.358+0530,In Verification,Medium,Nagendra Prasad N,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-8970,Sub-task,2021-11-25T17:06:18.969+0530,2021-12-17T08:40:20.309+0530,Done,High,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,21600,28800,28800
+OP-10632,Sub-task,2021-12-15T17:09:48.729+0530,2021-12-17T12:01:38.492+0530,Done,Medium,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,28800,28800,28800
+OP-8969,Sub-task,2021-11-25T17:04:51.503+0530,2021-12-20T18:02:51.718+0530,Done,High,Lingaselvan Palanichamy,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,18000,28800,28800
+OP-10364,Sub-task,2021-12-10T12:53:15.137+0530,2021-12-17T12:49:05.727+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10414,Sub-task,2021-12-10T18:46:35.222+0530,2021-12-17T12:49:08.071+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10513,Sub-task,2021-12-13T16:47:46.990+0530,2021-12-20T13:07:55.134+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10506,Sub-task,2021-12-13T15:35:03.282+0530,2021-12-17T12:49:05.883+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10511,Sub-task,2021-12-13T15:37:37.357+0530,2021-12-20T13:08:07.570+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,None
+OP-10431,Sub-task,2021-12-13T10:23:25.317+0530,2021-12-17T09:55:56.684+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-10436,Sub-task,2021-12-13T10:23:35.044+0530,2021-12-20T15:16:44.786+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,900,900,900
+OP-10437,Sub-task,2021-12-13T10:23:35.793+0530,2021-12-17T09:56:01.480+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,7200,7200
+OP-10439,Sub-task,2021-12-13T10:23:37.127+0530,2021-12-17T09:56:10.931+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10519,Sub-task,2021-12-13T19:17:53.856+0530,2021-12-17T09:56:19.248+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,180,180,None
+OP-10491,Sub-task,2021-12-13T13:26:08.453+0530,2021-12-17T12:49:07.566+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10496,Sub-task,2021-12-13T13:26:12.166+0530,2021-12-20T15:16:12.708+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,900,900,900
+OP-10525,Sub-task,2021-12-14T00:15:26.666+0530,2021-12-17T09:59:17.165+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-10526,Sub-task,2021-12-14T00:15:27.277+0530,2021-12-17T09:59:25.754+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10529,Sub-task,2021-12-14T00:15:30.765+0530,2021-12-20T21:42:39.459+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,2400,2400,900
+OP-10531,Sub-task,2021-12-14T00:15:31.501+0530,2021-12-20T13:07:42.524+0530,Done,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,600
+OP-10532,Sub-task,2021-12-14T00:15:31.858+0530,2021-12-16T17:23:53.977+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,3600
+OP-10534,Sub-task,2021-12-14T00:15:32.571+0530,2021-12-17T09:59:37.524+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,300,300,None
+OP-10536,Sub-task,2021-12-14T00:24:46.981+0530,2021-12-17T09:58:25.858+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,10800
+OP-10537,Sub-task,2021-12-14T00:24:47.706+0530,2021-12-17T09:58:34.558+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,7200,7200,7200
+OP-10540,Sub-task,2021-12-14T00:24:51.672+0530,2021-12-20T21:43:33.371+0530,Done,Medium,Navyasree Erthaneni,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,900
+OP-10542,Sub-task,2021-12-14T00:24:52.750+0530,2021-12-20T13:04:35.476+0530,In Verification,Medium,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,600,600,600
+OP-10543,Sub-task,2021-12-14T00:24:53.324+0530,2021-12-17T09:58:37.854+0530,Done,Medium,Meera Ann Jose,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,3600,3600
+OP-10545,Sub-task,2021-12-14T00:24:54.576+0530,2021-12-17T09:58:48.678+0530,Done,Medium,Satya Kiran Rayasam,ISD Sprint 2 (15Dec21-28Dec21),OES,300,300,None
+OP-10592,Sub-task,2021-12-15T09:26:39.391+0530,2021-12-17T18:13:18.430+0530,Done,Medium,Sheetal Atre,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,None
+OP-10598,Sub-task,2021-12-15T09:56:43.864+0530,2021-12-17T10:15:25.775+0530,Done,Medium,Pranabjyoti Nath,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,10800,10800,None
+OP-10604,Sub-task,2021-12-15T10:02:51.721+0530,2021-12-16T09:48:22.017+0530,Done,Medium,Sri Harsha Kancharla,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10674,Sub-task,2021-12-15T19:50:29.687+0530,2021-12-16T10:38:05.618+0530,Done,Medium,Rahulgandhi Chekuri,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,3600,3600,None
+OP-10677,Sub-task,2021-12-15T20:39:12.688+0530,2021-12-16T09:17:03.545+0530,Done,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10639,Sub-task,2021-12-15T17:46:43.042+0530,2021-12-22T14:31:31.351+0530,In Verification,Medium,Ramya Ravi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10640,Sub-task,2021-12-15T17:47:14.659+0530,2021-12-22T17:14:17.117+0530,PR Raised,Medium,Ramya Ravi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10303,Sub-task,2021-12-09T15:59:13.797+0530,2021-12-20T19:03:11.562+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10304,Sub-task,2021-12-09T15:59:40.115+0530,2021-12-20T19:03:13.961+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10579,Sub-task,2021-12-14T17:43:45.319+0530,2021-12-21T16:14:19.772+0530,Done,Medium,Ravikumar Hawaldar,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None

@@ -1,0 +1,12 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-10753,Test,2021-12-16T15:57:15.980+0530,2021-12-16T16:28:19.656+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10759,Test,2021-12-16T17:37:39.104+0530,2021-12-16T17:37:39.214+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10760,Test,2021-12-16T17:40:33.179+0530,2021-12-16T17:40:33.287+0530,To Do,Medium,Neelima Manubolu,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10885,Test,2021-12-20T11:36:11.423+0530,2021-12-20T14:05:08.983+0530,To Do,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,0,0,None
+OP-10971,Test,2021-12-21T14:39:09.772+0530,2021-12-22T09:23:46.175+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10972,Test,2021-12-21T14:39:28.492+0530,2021-12-21T16:31:29.932+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10973,Test,2021-12-21T14:41:03.382+0530,2021-12-21T16:31:39.149+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10974,Test,2021-12-21T14:41:56.263+0530,2021-12-21T16:32:09.015+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10975,Test,2021-12-21T14:42:42.418+0530,2021-12-21T16:32:18.636+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10976,Test,2021-12-21T14:45:23.500+0530,2021-12-21T16:32:27.031+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-10977,Test,2021-12-21T14:48:28.251+0530,2021-12-21T16:29:01.943+0530,To Do,Medium,Jayasree Kolukuluru,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None

@@ -1,0 +1,10 @@
+ProjectName,Bugs,Vulnerabilities,CodeSmells
+Autopilot,1,1,11
+issue-generator,0,0,0
+oes-dashboard,0,0,2
+OES-Gate,1,0,13
+OES-Platform,0,0,12
+OES-Sapor,0,0,52
+OES-UI,38,0,278
+OES-Visibility,0,0,0
+restapp,0,0,0
