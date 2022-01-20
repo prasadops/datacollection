@@ -1,0 +1,10 @@
+SprintId,SprintName,SprintStartDate,SprintEndDate,SprintCurrentStatus,AnalyticFlag
+15,ISD Sprint 1 (01Dec21-14Dec21),2021-12-01,2021-12-15,closed,off
+16,ISD Sprint 2 (15Dec21-28Dec21),2021-12-17,2021-12-28,closed,off
+17,ISD Sprint 3 (29Dec21-18Jan22),2021-12-29,2022-01-18,closed,off
+18,ISD Sprint 4 (19Jan22-27Jan22),2022-01-18,2022-01-27,active,on
+SprintId,SprintName,SprintStartDate,SprintEndDate,SprintCurrentStatus,AnalyticFlag
+15,ISD Sprint 1 (01Dec21-14Dec21),2021-12-01,2021-12-15,closed,off
+16,ISD Sprint 2 (15Dec21-28Dec21),2021-12-17,2021-12-28,closed,off
+17,ISD Sprint 3 (29Dec21-18Jan22),2021-12-29,2022-01-18,closed,off
+18,ISD Sprint 4 (19Jan22-27Jan22),2022-01-18,2022-01-27,active,on

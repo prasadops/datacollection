@@ -1,0 +1,14 @@
+title:	OP-11838 : Fixed Jenkins configured issue with username and password
+state:	MERGED
+author:	sriharshakancharla
+labels:	
+assignees:	
+reviewers:	ramyaravi-opsmx (Approved)
+projects:	
+milestone:	
+number:	354
+url:	https://github.com/OpsMx/visibility-service/pull/354
+additions:	1
+deletions:	1
+--
+https://devopsmx.atlassian.net/browse/OP-11838

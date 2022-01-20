@@ -1,0 +1,7 @@
+RuleID,Description,Count
+java:S2095,Resources should be closed,2
+Web:DoctypePresenceCheck,"<!DOCTYPE>" declarations should appear before "<html>" tags,2
+java:S2142,"InterruptedException" should not be ignored,1
+java:S2119,"Random" objects should be reused,1
+Web:ImgWithoutAltCheck,Image, area and button with image tags should have an "alt" attribute,1
+Web:S5254,"<html>" element should have a language attribute,1

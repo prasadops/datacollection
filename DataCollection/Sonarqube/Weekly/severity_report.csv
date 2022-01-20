@@ -1,0 +1,11 @@
+ProjectName,Blocker,Critical,Major,Info,Minor
+Autopilot,0,0,0,0,0
+issue-india,2,10,11,0,1
+issue-generator,2,10,11,0,1
+oes-dashboard,0,0,0,0,0
+OES-Gate,0,0,2,0,0
+OES-Platform,0,1,4,0,2
+OES-Sapor,0,10,22,0,17
+OES-UI,0,2,19,0,4
+OES-Visibility,0,0,0,0,0
+restapp,0,0,0,0,0

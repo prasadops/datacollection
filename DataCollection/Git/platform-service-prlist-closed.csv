@@ -1,0 +1,12 @@
+893	OP-11632 : Removed the standard error codes implementation classes with csv file. New implementation will come as separate PR.	OP-11632-RemovedStandardErrorClasses	MERGED
+892	Resolved Issue Now java Application name will not be updated from test cases/postman	OP-6616	MERGED
+891	OP-11845: Retry on connection failure.	OP-11845-Conn-Retry	MERGED
+887	worked on policy permission	OP-9578_datasource_permission	MERGED
+886	exception handling added in app sync feature	OP-11656-master	MERGED
+885	exception handling added in app sync feature	OP-11656-v3.10	MERGED
+884	OP-11554 : Added Bamboo integrator authentication and replaced jar file	OP-11554	MERGED
+882	OP-11577 : Updated the code parameters	OP-11577-BugFix	MERGED
+880	OP-11634 : Implemented API for fetching error codes and messages from a csv file using configuration properties.	OP-11634-StandardErrorCodes	MERGED
+879	Op 7842 made Camel case changes for 5 Integrators	OP-7842	MERGED
+854	OP-11443 : Removed Connect to spinnaker flag for Jira integrator	Op-11443-v3.9	MERGED
+853	OP-11443 : Removed Connect to spinnaker flag for Jira integrator (#851)	OP-11443-v3.10	MERGED

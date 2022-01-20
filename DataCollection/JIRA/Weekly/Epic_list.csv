@@ -1,0 +1,65 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-7312,Epic,2021-08-23T13:03:41.940+0530,2022-01-18T18:14:38.870+0530,In Verification,Medium,Pranabjyoti Nath,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8444,Epic,2021-11-19T12:18:01.369+0530,2022-01-18T18:14:43.984+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8554,Epic,2021-11-22T18:03:42.832+0530,2022-01-18T18:14:44.089+0530,In Verification,Highest,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,345600,345600,None
+OP-8619,Epic,2021-11-23T16:50:06.194+0530,2022-01-19T16:39:12.554+0530,In Verification,Highest,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,88200,140400,None
+OP-10114,Epic,2021-12-06T15:53:06.929+0530,2022-01-18T18:14:47.350+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9300,102900,None
+OP-7312,Epic,2021-08-23T13:03:41.940+0530,2022-01-18T18:14:38.870+0530,In Verification,Medium,Pranabjyoti Nath,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8444,Epic,2021-11-19T12:18:01.369+0530,2022-01-18T18:14:43.984+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8554,Epic,2021-11-22T18:03:42.832+0530,2022-01-18T18:14:44.089+0530,In Verification,Highest,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,345600,345600,None
+OP-8619,Epic,2021-11-23T16:50:06.194+0530,2022-01-19T16:39:12.554+0530,In Verification,Highest,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,88200,140400,None
+OP-10114,Epic,2021-12-06T15:53:06.929+0530,2022-01-18T18:14:47.350+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9300,102900,None
+OP-11251,Epic,2021-12-28T09:13:17.453+0530,2022-01-18T18:14:50.719+0530,In Verification,High,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,57600,57600,None
+OP-7312,Epic,2021-08-23T13:03:41.940+0530,2022-01-18T18:14:38.870+0530,In Verification,Medium,Pranabjyoti Nath,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8444,Epic,2021-11-19T12:18:01.369+0530,2022-01-18T18:14:43.984+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8554,Epic,2021-11-22T18:03:42.832+0530,2022-01-18T18:14:44.089+0530,In Verification,Highest,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,345600,345600,None
+OP-8619,Epic,2021-11-23T16:50:06.194+0530,2022-01-19T16:39:12.554+0530,In Verification,Highest,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,88200,140400,None
+OP-9297,Epic,2021-11-30T09:03:11.115+0530,2022-01-18T17:51:22.951+0530,Done,Highest,Kavitha Karuppannan,ISD Sprint 3 (29Dec21-18Jan22),Autopilot,237600,378000,None
+OP-9553,Epic,2021-11-30T17:42:48.494+0530,2022-01-18T18:14:46.293+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 3 (29Dec21-18Jan22),OES,51300,51300,None
+OP-10114,Epic,2021-12-06T15:53:06.929+0530,2022-01-18T18:14:47.350+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9300,102900,None
+OP-10563,Epic,2021-12-14T13:00:47.808+0530,2022-01-18T18:14:48.580+0530,In Verification,High,Sharath Chandra,ISD Sprint 3 (29Dec21-18Jan22),Autopilot,4800,4800,None
+OP-11210,Epic,2021-12-27T09:25:32.574+0530,2022-01-13T00:55:42.481+0530,Done,Medium,Anoop Singh,ISD Sprint 3 (29Dec21-18Jan22),Autopilot,72000,72000,None
+OP-11251,Epic,2021-12-28T09:13:17.453+0530,2022-01-18T18:14:50.719+0530,In Verification,High,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,57600,57600,None
+OP-11540,Epic,2022-01-05T06:43:47.690+0530,2022-01-18T18:14:51.173+0530,In Verification,High,Neelima Manubolu,ISD Sprint 3 (29Dec21-18Jan22),OES,72000,72000,None
+OP-2203,Epic,2020-01-14T09:58:33.241+0530,2022-01-18T19:50:51.522+0530,Done,Medium,Anjali Batra,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-2313,Epic,2020-02-24T16:30:05.988+0530,2022-01-18T19:50:49.738+0530,Done,Medium,Anjali Batra,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,64800,64800,None
+OP-6636,Epic,2021-06-04T11:55:38.495+0530,2022-01-18T17:47:31.865+0530,To Do,High,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),OES,901200,953100,None
+OP-7312,Epic,2021-08-23T13:03:41.940+0530,2022-01-18T18:14:38.870+0530,In Verification,Medium,Pranabjyoti Nath,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-7655,Epic,2021-10-06T18:14:54.170+0530,2022-01-18T17:47:24.013+0530,In Progress,Highest,Neelima Manubolu,ISD Sprint 4 (19Jan22-27Jan22),OES,9600,21180,780
+OP-7730,Epic,2021-10-13T18:17:14.567+0530,2022-01-18T17:47:19.815+0530,In Progress,Medium,Arunkumar,ISD Sprint 4 (19Jan22-27Jan22),OES,126720,126720,None
+OP-7743,Epic,2021-10-14T13:06:27.113+0530,2022-01-18T17:47:21.545+0530,To Do,High,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),OES,567480,577080,None
+OP-7914,Epic,2021-11-09T10:33:11.002+0530,2022-01-20T09:19:09.783+0530,To Do,Medium,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),OES,468000,482400,None
+OP-8444,Epic,2021-11-19T12:18:01.369+0530,2022-01-18T18:14:43.984+0530,In Verification,Medium,Pranav Bhaskaran,ISD Sprint 2 (15Dec21-28Dec21),OES,0,0,None
+OP-8548,Epic,2021-11-22T17:49:30.566+0530,2022-01-18T17:47:29.136+0530,To Do,Highest,Michael Graff,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-8551,Epic,2021-11-22T18:03:32.330+0530,2022-01-18T17:47:26.796+0530,In Progress,Highest,Jayasree Kolukuluru,ISD Sprint 4 (19Jan22-27Jan22),OES,46800,46800,None
+OP-8552,Epic,2021-11-22T18:03:35.752+0530,2022-01-18T16:33:57.885+0530,In Progress,Highest,Ramya Ravi,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,430200,487800,None
+OP-8553,Epic,2021-11-22T18:03:39.454+0530,2022-01-18T17:47:24.305+0530,In Progress,Highest,Luthan T B,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-8554,Epic,2021-11-22T18:03:42.832+0530,2022-01-18T18:14:44.089+0530,In Verification,Highest,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,345600,345600,None
+OP-8557,Epic,2021-11-22T18:45:25.843+0530,2022-01-19T13:25:53.011+0530,In Verification,Highest,Meera Ann Jose,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,354600,376800,None
+OP-8559,Epic,2021-11-22T18:45:36.103+0530,2022-01-18T12:31:20.365+0530,In Progress,Highest,Sheetal Atre,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,376200,405000,None
+OP-8558,Epic,2021-11-22T18:45:30.645+0530,2022-01-18T17:38:55.677+0530,In Progress,Highest,Madhanmohan Pulipati,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,345600,115200
+OP-8570,Epic,2021-11-23T10:33:55.165+0530,2022-01-18T19:51:01.939+0530,To Do,High,Srinivas Kambhampati,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-8619,Epic,2021-11-23T16:50:06.194+0530,2022-01-19T16:39:12.554+0530,In Verification,Highest,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,88200,140400,None
+OP-8749,Epic,2021-11-24T12:37:56.815+0530,2022-01-18T17:47:27.076+0530,In Progress,High,Jayasree Kolukuluru,ISD Sprint 4 (19Jan22-27Jan22),OES,0,0,None
+OP-9296,Epic,2021-11-30T09:02:15.414+0530,2022-01-20T09:19:19.288+0530,In Progress,Highest,Ravi Shankar Pavushetti,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,1187700,1255200,None
+OP-9298,Epic,2021-11-30T09:03:41.252+0530,2022-01-18T17:38:48.652+0530,In Progress,Highest,Madhanmohan Pulipati,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-9299,Epic,2021-11-30T09:04:09.647+0530,2022-01-19T21:02:12.571+0530,In Progress,Highest,Giribabu Thanikonda,ISD Sprint 4 (19Jan22-27Jan22),OES,450900,506700,None
+OP-9553,Epic,2021-11-30T17:42:48.494+0530,2022-01-18T18:14:46.293+0530,In Verification,Medium,Jayasree Kolukuluru,ISD Sprint 3 (29Dec21-18Jan22),OES,51300,51300,None
+OP-9663,Epic,2021-12-01T09:53:30.680+0530,2022-01-19T14:47:26.746+0530,In Progress,High,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,753900,771900,None
+OP-9664,Epic,2021-12-01T09:54:04.887+0530,2022-01-18T17:47:30.427+0530,In Progress,High,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,151800,151800,None
+OP-9692,Epic,2021-12-01T10:56:19.156+0530,2022-01-18T17:47:25.710+0530,In Progress,High,M Karunakar Reddy,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-9696,Epic,2021-12-01T11:01:11.015+0530,2022-01-20T10:46:02.312+0530,In Progress,High,Neelima Manubolu,ISD Sprint 4 (19Jan22-27Jan22),OES,1447200,1447200,None
+OP-9698,Epic,2021-12-01T11:01:59.837+0530,2022-01-18T19:34:09.063+0530,In Progress,Medium,Jayasree Kolukuluru,ISD Sprint 4 (19Jan22-27Jan22),OES,46800,73800,None
+OP-9778,Epic,2021-12-01T16:43:49.044+0530,2022-01-18T17:47:20.612+0530,In Progress,Highest,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,1800,1800,None
+OP-10114,Epic,2021-12-06T15:53:06.929+0530,2022-01-18T18:14:47.350+0530,In Verification,Medium,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,9300,102900,None
+OP-10269,Epic,2021-12-09T13:12:43.229+0530,2022-01-18T17:47:19.366+0530,To Do,Medium,Jayakumar Soundararadjalou,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,0,0,None
+OP-10554,Epic,2021-12-14T10:43:11.746+0530,2022-01-18T17:47:30.683+0530,To Do,Highest,Vasantha Kumar Narayan,ISD Sprint 4 (19Jan22-27Jan22),Customer,0,0,None
+OP-10563,Epic,2021-12-14T13:00:47.808+0530,2022-01-18T18:14:48.580+0530,In Verification,High,Sharath Chandra,ISD Sprint 3 (29Dec21-18Jan22),Autopilot,4800,4800,None
+OP-10619,Epic,2021-12-15T13:51:02.543+0530,2022-01-18T17:47:21.435+0530,In Progress,Highest,Luthan T B,ISD Sprint 4 (19Jan22-27Jan22),OES,0,0,None
+OP-10882,Epic,2021-12-20T11:20:05.436+0530,2022-01-20T08:53:07.511+0530,In Progress,Medium,Anjali Batra,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,842400,1047600,288000
+OP-10952,Epic,2021-12-21T10:41:40.261+0530,2022-01-19T11:55:47.661+0530,In Progress,Highest,Sri Harsha Kancharla,ISD Sprint 4 (19Jan22-27Jan22),OES,57600,57600,None
+OP-11251,Epic,2021-12-28T09:13:17.453+0530,2022-01-18T18:14:50.719+0530,In Verification,High,Ravi Shankar Pavushetti,ISD Sprint 2 (15Dec21-28Dec21),OES,57600,57600,None
+OP-11315,Epic,2021-12-28T18:36:10.045+0530,2022-01-19T17:19:13.177+0530,In Progress,High,Ravikumar Hawaldar,ISD Sprint 4 (19Jan22-27Jan22),OES,7200,7200,None
+OP-11473,Epic,2022-01-03T15:58:47.203+0530,2022-01-18T17:47:17.637+0530,In Progress,Medium,Ravi Shankar Pavushetti,ISD Sprint 4 (19Jan22-27Jan22),OES,0,14400,None
+OP-11492,Epic,2022-01-04T09:14:03.445+0530,2022-01-18T09:28:38.829+0530,In Progress,Medium,Sheetal Atre,ISD Sprint 4 (19Jan22-27Jan22),Autopilot,28800,28800,None
+OP-11540,Epic,2022-01-05T06:43:47.690+0530,2022-01-18T18:14:51.173+0530,In Verification,High,Neelima Manubolu,ISD Sprint 3 (29Dec21-18Jan22),OES,72000,72000,None

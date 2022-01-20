@@ -1,0 +1,7 @@
+RuleID,Description,Count
+java:S2479,Whitespace and control characters in literals should be explicit,8
+java:S125,Sections of code should not be commented out,3
+java:S1149,Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used,2
+java:S1192,String literals should not be duplicated,1
+java:S3740,Raw types should not be used,1
+Web:S1827,Attributes deprecated  in HTML5 should not be used,1

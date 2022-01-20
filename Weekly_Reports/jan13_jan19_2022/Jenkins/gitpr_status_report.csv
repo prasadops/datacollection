@@ -1,0 +1,9 @@
+JobName,NumberOfBuilds,Successful,Failure,Aborted
+Dev-Autopilot_Test_PR_New,5,5,0,0
+Dev-dashboardservice-build-branch-vault,18,18,0,0
+Dev-Test_PR-oes-gate,0,0,0,0
+Dev-Test_PR-oes-ui,20,19,1,0
+Dev-platformservice-build-branch-vault,20,18,1,1
+Dev-Test_PR-oes-api,17,17,0,0
+Dev-visibilityservice-build-branch-vault,18,18,0,0
+Total,98,95,2,1

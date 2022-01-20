@@ -1,0 +1,3 @@
+RuleID,Description,Count
+css:S4666,Selectors should not be duplicated,1
+Web:AvoidCommentedOutCodeCheck,Sections of code should not be commented out,1

@@ -1,0 +1,16 @@
+IssueKey,IssueType,CreatedOn,UpdatedOn,Status,Priority,Assignee,Sprint,Component,AggregateTimeSpent,AggregateTotalTime,OriginalTimeEstimate
+OP-11597,Story,2022-01-06T12:41:41.842+0530,2022-01-06T12:42:53.457+0530,In Progress,Medium,Meera Ann Jose,ISD Sprint 3 (29Dec21-12Jan22),Spinnaker,0,0,None
+OP-11608,Story,2022-01-06T19:28:51.712+0530,2022-01-11T09:36:32.739+0530,In Verification,Medium,Sharath Chandra,ISD Sprint 3 (29Dec21-12Jan22),OES,86400,86400,None
+OP-11622,Story,2022-01-07T08:53:27.044+0530,2022-01-11T10:36:43.962+0530,Done,Medium,Anjali Batra,ISD Sprint 3 (29Dec21-12Jan22),Autopilot,0,0,None
+OP-11623,Story,2022-01-07T08:55:48.306+0530,2022-01-13T08:44:01.706+0530,Approved,Medium,Anjali Batra,ISD Sprint 3 (29Dec21-12Jan22),Autopilot,115200,115200,None
+OP-11632,Story,2022-01-07T14:37:12.304+0530,2022-01-10T16:53:25.272+0530,In Progress,Medium,Ravikumar Hawaldar,ISD Sprint 3 (29Dec21-12Jan22),OES,0,0,None
+OP-11654,Story,2022-01-10T11:25:58.810+0530,2022-01-11T21:30:39.536+0530,Done,Medium,Anoop Singh,ISD Sprint 3 (29Dec21-12Jan22),Autopilot,0,0,None
+OP-11662,Story,2022-01-10T17:02:13.354+0530,2022-01-11T17:00:03.642+0530,To Do,High,Madhanmohan Pulipati,ISD Sprint 3 (29Dec21-12Jan22),OES,0,0,None
+OP-11667,Story,2022-01-10T19:55:11.086+0530,2022-01-11T09:02:15.159+0530,In Progress,High,Sharath Chandra,ISD Sprint 3 (29Dec21-12Jan22),Autopilot,10800,10800,None
+OP-11668,Story,2022-01-10T20:01:11.752+0530,2022-01-10T20:02:21.339+0530,In Progress,Medium,Meera Ann Jose,ISD Sprint 3 (29Dec21-12Jan22),Spinnaker,0,0,None
+OP-8692,Story,2021-11-24T11:33:16.901+0530,2022-01-11T18:53:12.235+0530,In Verification,High,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,75900,86700,None
+OP-8750,Story,2021-11-24T12:44:24.444+0530,2022-01-11T18:52:14.694+0530,In Verification,High,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,68700,79200,0
+OP-8738,Story,2021-11-24T12:23:53.397+0530,2022-01-12T14:53:05.747+0530,In Verification,High,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,12600,28800,None
+OP-9480,Story,2021-11-30T16:37:45.642+0530,2022-01-12T12:58:42.494+0530,Done,High,nilavarasi,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,258600,288900,28800
+OP-9492,Story,2021-11-30T16:39:21.055+0530,2022-01-11T18:50:08.412+0530,In Verification,High,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,83100,83100,None
+OP-10301,Story,2021-12-09T15:57:42.308+0530,2022-01-11T09:28:43.849+0530,Done,Medium,Kavitha Karuppannan,ISD Sprint 2 (15Dec21-28Dec21),Autopilot,115200,115200,None

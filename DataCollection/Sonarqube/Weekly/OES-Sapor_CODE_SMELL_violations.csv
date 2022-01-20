@@ -1,0 +1,18 @@
+RuleID,Description,Count
+java:S112,Generic exceptions should never be thrown,12
+java:S1192,String literals should not be duplicated,9
+java:S2293,The diamond operator ("<>") should be used,8
+java:S117,Local variable and method parameter names should comply with a naming convention,2
+java:S1854,Unused assignments should be removed,2
+java:S3740,Raw types should not be used,2
+java:S1450,Private fields only used as local variables in methods should become local variables,2
+java:S1068,Unused "private" fields should be removed,2
+java:S1116,Empty statements should be removed,2
+java:S125,Sections of code should not be commented out,1
+java:S1301,"switch" statements should have at least 3 "case" clauses,1
+java:S1165,Exception classes should be immutable,1
+java:S1066,Collapsible "if" statements should be merged,1
+java:S1172,Unused method parameters should be removed,1
+java:S1481,Unused local variables should be removed,1
+java:S3776,Cognitive Complexity of methods should not be too high,1
+java:S1144,Unused "private" methods should be removed,1

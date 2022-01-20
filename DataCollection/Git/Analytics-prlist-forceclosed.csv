@@ -1,0 +1,2 @@
+4409	Bump log4j-core from 2.16.0 to 2.17.1 in /canary-codebase/opsmx-cas-core/opsmx-cas-services	dependabot/maven/canary-codebase/opsmx-cas-core/opsmx-cas-services/org.apache.logging.log4j-log4j-core-2.17.1	CLOSED
+4216	Bump shiro-core from 1.4.2 to 1.8.0 in /canary-codebase/opsmx-monitoring-services	dependabot/maven/canary-codebase/opsmx-monitoring-services/org.apache.shiro-shiro-core-1.8.0	CLOSED
